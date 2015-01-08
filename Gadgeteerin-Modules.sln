@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IngenuityMicro", "IngenuityMicro", "{FBCA316B-4561-41D0-AEC7-CBA7BFAB39AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IM_ServoTidy", "IM_ServoTidy", "{9B06F97B-DB5E-49E3-A62C-6D045EED7D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IM_ServoTidy_41", "IngenuityMicro\IM_ServoTidy\IM_ServoTidy_41\IM_ServoTidy_41.csproj", "{295A1A58-DD7B-433A-A804-D08A9A4A57AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IM_ServoTidy_42", "IngenuityMicro\IM_ServoTidy\IM_ServoTidy_42\IM_ServoTidy_42.csproj", "{D4673669-9956-4F47-A055-D2D2F2B1ABE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IM_ServoTidy_43", "IngenuityMicro\IM_ServoTidy\IM_ServoTidy_43\IM_ServoTidy_43.csproj", "{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IM_ServoTidy", "IngenuityMicro\IM_ServoTidy\IM_ServoTidy\IM_ServoTidy.csproj", "{D27254F1-8DD6-4400-AA6F-95E28CD50064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295A1A58-DD7B-433A-A804-D08A9A4A57AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295A1A58-DD7B-433A-A804-D08A9A4A57AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295A1A58-DD7B-433A-A804-D08A9A4A57AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295A1A58-DD7B-433A-A804-D08A9A4A57AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4673669-9956-4F47-A055-D2D2F2B1ABE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4673669-9956-4F47-A055-D2D2F2B1ABE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4673669-9956-4F47-A055-D2D2F2B1ABE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4673669-9956-4F47-A055-D2D2F2B1ABE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27254F1-8DD6-4400-AA6F-95E28CD50064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27254F1-8DD6-4400-AA6F-95E28CD50064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27254F1-8DD6-4400-AA6F-95E28CD50064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27254F1-8DD6-4400-AA6F-95E28CD50064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9B06F97B-DB5E-49E3-A62C-6D045EED7D26} = {FBCA316B-4561-41D0-AEC7-CBA7BFAB39AC}
+		{295A1A58-DD7B-433A-A804-D08A9A4A57AC} = {9B06F97B-DB5E-49E3-A62C-6D045EED7D26}
+		{D4673669-9956-4F47-A055-D2D2F2B1ABE2} = {9B06F97B-DB5E-49E3-A62C-6D045EED7D26}
+		{3EBB9DBF-316A-41A1-AC82-9C273EAFEF15} = {9B06F97B-DB5E-49E3-A62C-6D045EED7D26}
+		{D27254F1-8DD6-4400-AA6F-95E28CD50064} = {9B06F97B-DB5E-49E3-A62C-6D045EED7D26}
+	EndGlobalSection
+EndGlobal
